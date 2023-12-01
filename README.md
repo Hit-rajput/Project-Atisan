@@ -37,6 +37,4 @@ User Score Integration: The IDE algorithm iteratively asks for user scores based
 
 Optimal Color Values: The algorithm aims to find the optimal values for desired and undesired colours in the image. These values are crucial for enhancing the clarity and distinctness of crucial details in forensic images.
 
-Advanced Test Cases: After familiarizing yourself with final_test_case.m, proceed to final_test_case_3.m, final_test_case_4.m, and final_test_case_5.m. Each script presents more complex scenarios and demonstrates the algorithm's adaptability to various forensic challenges.
-
-Final Results: Upon completion, the scripts will output the optimal values for desired and undesired colors. These values are used for the final color separation in forensic images, ensuring enhanced clarity and detail
+Final Results: Upon completion, the scripts will output the optimal values for desired and undesired colors. These values are used for the final color separation in final_test_case.m,final_test_case_2.m,final_test_case_3.m, final_test_case_4.m, and final_test_case_5.m, ensuring enhanced clarity and detail.
