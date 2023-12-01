@@ -33,8 +33,8 @@ For any questions or discussions, feel free to open an issue or contact the cont
 # Running the Scripts
 Initial Setup: Start by running final_test_case.m. This script sets up the initial parameters and demonstrates the basic functionality of the algorithm.
 
-# User Score Integration: The IDE algorithm iteratively asks for user scores based on the presented colour separation results. Your input as a user influences the direction of the optimization, ensuring that the algorithm converges towards a solution that meets specific forensic requirements.
+User Score Integration: The IDE algorithm iteratively asks for user scores based on the presented colour separation results. Your input as a user influences the direction of the optimization, ensuring that the algorithm converges towards a solution that meets specific forensic requirements.
 
-# Optimal Color Values: The algorithm aims to find the optimal values for desired and undesired colours in the image. These values are crucial for enhancing the clarity and distinctness of crucial details in forensic images.
+Optimal Color Values: The algorithm aims to find the optimal values for desired and undesired colours in the image. These values are crucial for enhancing the clarity and distinctness of crucial details in forensic images.
 
-# Final Results: Upon completion, the scripts will output the optimal values for desired and undesired colors. These values are used for the final color separation in final_test_case.m,final_test_case_2.m,final_test_case_3.m, final_test_case_4.m, and final_test_case_5.m, ensuring enhanced clarity and detail.
+Final Results: Upon completion, the scripts will output the optimal values for desired and undesired colors. These values are used for the final color separation in final_test_case.m,final_test_case_2.m,final_test_case_3.m, final_test_case_4.m, and final_test_case_5.m, ensuring enhanced clarity and detail.
